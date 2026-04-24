@@ -22,6 +22,7 @@ A desktop voice assistant built using Python that can perform tasks like opening
 1. Install required libraries:
 ```bash
 pip install speechrecognition pyttsx3 pillow
+python assistant3Final.py
 ```
 🎯 Example Commands
 "Open Chrome"
